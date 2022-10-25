@@ -1,0 +1,25 @@
+.header {
+    background-color: rgb(96 98 99 / 77%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    box-shadow: 2px 2px rgb(30 72 46);
+}
+
+.header__link {
+    text-decoration: none;
+    color: black;
+}
+
+.header__link:hover {
+    transform: scale(1.1);
+    transition-duration: 1s;
+    text-decoration: underline;
+}
+
+.header__MainTitle {
+    position: center;
+    font-size: 40px;
+    text-shadow: 2px 2px grey;
+}

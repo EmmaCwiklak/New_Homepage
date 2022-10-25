@@ -1,0 +1,56 @@
+.section__ShowFotoButton {
+    position: center;
+    /* background-image: url("https://i.pinimg.com/originals/ec/86/aa/ec86aaf6281e372b69f81761ee4d1cbe.jpg"); */
+    background-color: #629375;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    box-shadow: 2px 2px rgb(30 72 46);
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.section__ShowFotoButton:hover {
+    background: rgb(255, 255, 255);
+    transform: scale(1.1);
+    transition-duration: 0.5s;
+
+}
+
+.section__SecondHeading {
+    position: center;
+    font-size: 30px;
+    text-shadow: 2px 1px rgb(30 72 46);
+    font-weight: bold;
+}
+
+.section__foto {
+    width: 150px;
+    height: 200px;
+    box-shadow: 2px 2px grey;
+}
+
+.section__text {
+    box-shadow: 2px 2px grey;
+    background-color: #629375;
+    color: rgb(48, 58, 54);
+    border-style: solid;
+    text-align: center;
+    font-weight: bolder;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.section__button {
+    
+    background-color:#77797a;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+.section__button:hover {
+    background: rgb(255, 255, 255);
+    transition-duration: 0.5s;
+}

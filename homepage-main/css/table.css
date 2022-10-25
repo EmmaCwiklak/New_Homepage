@@ -1,0 +1,55 @@
+.ConteinerTable {
+    display: inline-flex;
+    overflow-x: auto;
+}
+.SecondHeading{
+    font-weight: bolder;
+}
+.table {
+    box-shadow: 2px 2px rgb(96 98 99 / 77%);
+    border-collapse: collapse;
+}
+
+.TableCell {
+    text-align: center;
+    padding: 10px 3px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.TableHeader {
+    font-family: 'Source Sans 3', sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    color: rgb(0 0 0);
+    background-color: #629375;
+}
+
+.TableList {
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+}
+
+.TableRow:nth-child(even) {
+    background-color: rgb(119 121 122);
+}
+
+.TableRow:hover {
+    background-color: rgb(119 121 122 / 42%);
+}
+
+.TableLink {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.TableLink:hover {
+    color: #dddede;
+    text-decoration: underline;
+}
+.TableInfo {
+    margin-top: 2px;
+    font-size: 12px;
+}

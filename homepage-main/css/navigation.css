@@ -1,0 +1,54 @@
+.navigator {
+    margin: 0px;
+    padding: 0px;
+}
+
+.NavigatingList {
+    margin: 0px;
+    padding: 10px 10px;
+}
+
+.NavigatingList_Item {
+    font-size: 20px;
+    /* font-style: unset; */
+    font-weight: bolder;
+    display: inline-flex;
+    margin: 5px;
+    padding: 10px;
+    background-color: #63ba82a8;
+    border: rgb(30 72 46) 2px;
+    box-shadow: 2px 2px rgb(48, 58, 54);
+    border-style: solid;
+}
+
+.NavigatingList_Item:hover {
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+/*.NavigatingList_ItemFoto{
+   
+    font-size: 20px;
+    display: inline-flex;
+    margin: 5px;
+    padding:10px;
+
+}
+.NavigatingList_ItemFoto:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+}
+
+.mode_img{
+    
+    background-color: rgba(228, 151, 151, 0.171);
+    border: rgb(182, 123, 197) 2px;
+    box-shadow: 2px 2px rgb(48, 58, 54);
+    border: white;
+    border-style: none;
+}
+.mode_img:hover{
+    transform:scale(1.1);
+    transition-duration:1s;
+}*/
+
