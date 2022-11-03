@@ -1,5 +1,5 @@
 # Emma Ćwiklak - my website
-![this is how i look](https://files.fm/f/jsr6pyaxm)
+![this is how i look]([https://files.fm/f/jsr6pyaxm](https://i.ibb.co/DQ0jMsD/312905422-437195065152925-5235408083838463913-n.jpg))
 
 ## Demo
 https://emmacwiklak.github.io/New_Homepage/
